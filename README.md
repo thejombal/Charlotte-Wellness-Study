@@ -1,7 +1,7 @@
 # Charlotte Wellness Study Dashboard
 ## Charlotte Wellness Study Abstract
 
-The Charlotte Wellness Study dashboard was used to track the health and wellness of Charlotte County residents based on demographic. United Way conducted a survey to find more about the deniziens, and requested we find any interesting trends in the data. In the process of creating the dashboard, it was decided that their were too many measures to track; thus, the mega dashboard was created. The ideal dashboard was created in a way that could answer all questions by filtering on specific demographics, and presenting counts of respondent's answers. 
+The Charlotte Wellness Study dashboard was used to track the health and wellness of Charlotte County residents based on demographic. United Way conducted a survey to find more about the denizens, and requested we find any interesting trends in the data. In the process of creating the dashboard, it was decided that their were too many measures to track; thus, the mega dashboard was created. The ideal dashboard was created in a way that could answer all questions by filtering on specific demographics, and presenting counts of respondent's answers. 
 
 ## Survey Data
 This folder contains all CSVs used to create the visualizations.
