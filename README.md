@@ -9,5 +9,5 @@ This folder contains all CSVs used to create the visualizations.
 
 ## Tableau Files
 This folder contains the finalized dashboard along with previous versions. In case the Tableau file cannot be opened, screenshots of each visual are provided. 
-  - https://github.com/thejombal/Irma-Evacuation-Dashboard/tree/main/Tableau%20Files%20+%20Data%20Files
+  - https://github.com/thejombal/Charlotte-Wellness-Study/tree/main/Tableau%20Versions
 
